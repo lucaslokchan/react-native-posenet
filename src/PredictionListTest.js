@@ -1,10 +1,30 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
+
 export function PredictionList({ predictions = {} }) {
+  //let nose = predictions.keypoints[0];
+  //let leftEye = predictions.keypoints[1];
+  //let rightEye = predictions.keypoints[2];
+  //let leftEar = predictions.keypoints[3];
+  //let rightEar = predictions.keypoints[4];
+  //let leftShoulder = predictions.keypoints[5];
+  //let rightShoulder = predictions.keypoints[6];
+  //let leftElbow = predictions.keypoints[7];
+  //let rightElbow = predictions.keypoints[8];
+  //let leftWrist = predictions.keypoints[9];
+  //let rightWrist = predictions.keypoints[10];
+  //let leftHip = predictions.keypoints[11];
+  //let rightHip = predictions.keypoints[12];
+  //let leftKnee = predictions.keypoints[13];
+  //let rightKnee = predictions.keypoints[14];
+  //let leftAnkle = predictions.keypoints[15];
+  //let rightAnkle = predictions.keypoints[16];
+
   return (
     <><View style={styles.test}>
-      <Text> 123213 45454545</Text>
+      <Text>Nose</Text>
+      <Text>123</Text>
     </View>
     
 
