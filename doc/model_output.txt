@@ -1,0 +1,141 @@
+Object {
+  "keypoints": Array [
+    Object {
+      "part": "nose",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftEye",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightEye",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftEar",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightEar",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftShoulder",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightShoulder",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftElbow",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightElbow",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftWrist",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightWrist",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftHip",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightHip",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftKnee",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightKnee",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "leftAnkle",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+    Object {
+      "part": "rightAnkle",
+      "position": Object {
+        "x": -59,
+        "y": 0,
+      },
+      "score": 0,
+    },
+  ],
+  "score": 0,
+}
