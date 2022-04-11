@@ -12,7 +12,23 @@ Replace `ModelView.js` and `PredictionList.js`
 
 ## Model Output
 
+Overall Score
+> `predictions.score`
+
+Object Contains Body Part, Body Part Score and XY Coordinate
 > `predictions.keypoints[n]`
+
+Score of Particular Body Part
+> `predictions.keypoints[n].score`
+
+Name of Particular Body Part
+> `predictions.keypoints[n].part`
+
+X Coordinate of Particular Body Part
+> `predictions.keypoints[n].position.x`
+
+Y Coordinate of Particular Body Part
+> `predictions.keypoints[n].position.y`
 
 n   | Body Part 
 :---: | :--- 
